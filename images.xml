@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<slideshow>
+	<photo image="images/01.jpg" url="#" target="_blank" info="Premier"/>
+	<photo image="images/02.jpg" url="#" target="_blank" info="Nissan"/>
+	<photo image="images/03.jpg" url="#" target="_blank" info="Mahindra"/>
+	<photo image="images/04.jpg" url="#" target="_blank" info="Hyundai"/>
+	<photo image="images/05.jpg" url="#" target="_blank" info="Chevrolet"/>
+	<photo image="images/06.jpg" url="#" target="_blank" info="Ford "/>
+	<photo image="images/07.jpg" url="#" target="_blank" info="Greaves"/>
+	<photo image="images/08.jpg" url="#" target="_blank" info="Force"/>
+	<photo image="images/09.jpg" url="#" target="_blank" info="Fiat"/>
+	<photo image="images/10.jpg" url="#" target="_blank" info="Escorts"/>
+	<photo image="images/11.jpg" url="#" target="_blank" info="Eicher"/>
+	<photo image="images/12.jpg" url="#" target="_blank" info="Deutz"/>
+	<photo image="images/13.jpg" url="#" target="_blank" info="BMW"/>
+	<photo image="images/14.jpg" url="#" target="_blank" info="Hindustan Motors"/>
+	<photo image="images/15.jpg" url="#" target="_blank" info="Beml"/>
+	<photo image="images/16.jpg" url="#" target="_blank" info="Perkins"/>
+	<photo image="images/17.jpg" url="#" target="_blank" info="Benz"/>
+	<photo image="images/18.jpg" url="#" target="_blank" info="Volvo Penta"/>
+	<photo image="images/19.jpg" url="#" target="_blank" info="Volvo"/>
+	<photo image="images/20.jpg" url="#" target="_blank" info="Volkswagen"/>
+	<photo image="images/21.jpg" url="#" target="_blank" info="Tata"/>
+	<photo image="images/22.jpg" url="#" target="_blank" info="Suzuki"/>
+	<photo image="images/23.jpg" url="#" target="_blank" info="Tafe"/>
+	<photo image="images/24.jpg" url="#" target="_blank" info="Swaraj Mazda"/>
+	<photo image="images/25.jpg" url="#" target="_blank" info="Skoda"/>
+</slideshow>
